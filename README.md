@@ -16,6 +16,12 @@ Based on various market surveys, the consulting firm has gathered a large datase
 
 You are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
+## Dataset
+https://cdn.upgrad.com/UpGrad/temp/a9f2334f-9eb2-4160-8486-701584204e08/CarPrice_Assignment.csv
+
+## Data Dictionary
+https://cdn.upgrad.com/UpGrad/temp/a5ae64ac-9490-44a5-ac06-c8b97e76937d/Data%20Dictionary%20-%20carprices.xlsx
+
 ## Data Preparation
 
 There is a variable named CarName which is comprised of two parts - the first word is the name of 'car company' and the second is the 'car model'. For example, chevrolet impala has 'chevrolet' as the car company name and 'impala' as the car model name. You need to consider only company name as the independent variable for model building.
